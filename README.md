@@ -40,4 +40,11 @@ TextScan is a lightweight Windows desktop application that allows users to captu
 - System.Drawing
 - System.Windows.Forms
 
+## Images
+![Screenshot (513)](https://github.com/user-attachments/assets/2a79ab29-cf32-443d-b88d-bdae05b6abbe)
+![Screenshot (514)](https://github.com/user-attachments/assets/59bdbe3a-cd9e-4f6f-990d-83ff642285d3)
+![Screenshot (515)](https://github.com/user-attachments/assets/c0752c6b-e516-44af-a0d4-e2211266abc7)
+
+
+
 
